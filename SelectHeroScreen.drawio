@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T21:33:57.289Z" agent="5.0 (Windows)" etag="2fOsTk7ddVN2RdieiiD9" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T21:35:26.479Z" agent="5.0 (Windows)" etag="vcwz3gIZM9Q-4vah3w7r" version="14.0.4" type="github">
   <diagram id="s0R87GjOq4F6TkN3tkKj" name="Page-1">
     <mxGraphModel dx="371" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
           <mxGeometry x="180" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kV3hW0LneIvXpQz90k-1-45" value="&lt;div align=&quot;left&quot;&gt;Atk-level: 10&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="175" y="420" width="70" height="20" as="geometry" />
+          <mxGeometry x="175" y="420" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kV3hW0LneIvXpQz90k-1-46" value="&lt;div align=&quot;left&quot;&gt;Def-level: 4&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="175" y="435" width="85" height="20" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="410" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kV3hW0LneIvXpQz90k-1-77" value="&lt;div align=&quot;left&quot;&gt;Atk-level: 13&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="405" y="420" width="70" height="20" as="geometry" />
+          <mxGeometry x="405" y="420" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kV3hW0LneIvXpQz90k-1-78" value="&lt;div align=&quot;left&quot;&gt;Def-level: 1&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="405" y="435" width="85" height="20" as="geometry" />
@@ -163,7 +163,7 @@
         <mxCell id="kV3hW0LneIvXpQz90k-1-95" value="Add to List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="301.25" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-L6zGgVUk4k8gBSRgUMj-1" value="MiniRPG - Main Menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-L6zGgVUk4k8gBSRgUMj-1" value="MiniRPG - Main Menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="60" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
